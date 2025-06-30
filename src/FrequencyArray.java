@@ -1,3 +1,4 @@
+/*CREATE AN ARRAY TO SEARCH DIFF NOS IF PRESENT IN ARRAY*/
 import java.util.Scanner;
 
 public class FrequencyArray {
